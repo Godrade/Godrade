@@ -5,13 +5,13 @@
 ```yaml 
 username: Godrade
 located_in: Corse
-current_job: Full Stack Developer in freelance
+current_job: Full Stack Developer at IT-Consulting
 education:
   [
     "Web developper 'OpenClassRooms'",
     "Front web developper 'OpenClassRooms'"
   ]
-company: Balmcore
+company: Balmcore, IT-Consulting
 
 fields_of_interests:
   [
@@ -20,12 +20,13 @@ fields_of_interests:
   ]
 technical_background:
   [
+    "CDI - IT-Consulting"
     "Freelance - Balmcore"
     "Alternance - Myriade Digital"
   ]
   
 currently_learning: ["React", "TypeScript"]
-2023 Goals: ["Create Mon Commerçant Corse", "Find job"]
+2023 Goals: ["Create Mon Commerçant Corse"]
 hobbies: ["Gaming", "Cinema", "Netflix"]
 ```
 
