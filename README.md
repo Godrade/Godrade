@@ -6,7 +6,7 @@
 username: Godrade
 located_in: Corse
 current_job: Full Stack Web Developer
-company: Balmcore
+company: Balmcore, IT-Consulting Solutions
 
 education: [
   "Web developper 'OpenClassRooms'",
