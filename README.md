@@ -1,32 +1,30 @@
 <p align="center" xmlns:https="http://www.w3.org/1999/xhtml">
-  <img src="https://capsule-render.vercel.app/api?text=Hello%20World!&desc=Freelance%20-%20Web%20Developper&animation=blink&type=transparent&fontColor=FFFFFF&height=200&fontSize=72&descAlignY=70&descAlign=60"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hello%20World!&desc=Web%20Developper&animation=blink&type=transparent&fontColor=FFFFFF&height=200&fontSize=72&descAlignY=70&descAlign=65"/>
 </p>
 
 ```yaml 
 username: Godrade
 located_in: Corse
-current_job: Full Stack Developer in freelance
-education:
-  [
-    "Web developper 'OpenClassRooms'",
-    "Front web developper 'OpenClassRooms'"
-  ]
+current_job: Full Stack Web Developer
 company: Balmcore
 
-fields_of_interests:
-  [
-    "Web Development",
-    "Project creation",
-  ]
-technical_background:
-  [
-    "Freelance - Balmcore"
-    "Alternance - Myriade Digital"
-  ]
-  
-currently_learning: ["React", "TypeScript"]
-2023 Goals: ["Create Mon Commerçant Corse", "Find job"]
-hobbies: ["Gaming", "Cinema", "Netflix"]
+education: [
+  "Web developper 'OpenClassRooms'",
+  "Front web developper 'OpenClassRooms'"
+]
+
+fields_of_interests: [
+  "Web Development",
+  "Project creation",
+]
+
+technical_background: [
+  "CDI - IT-Consulting Solutions"
+  "Freelance - Balmcore"
+  "Alternance - Myriade Digital"
+]
+
+hobbies: [ "Formula 1", "Cinema", "Netflix" ]
 ```
 
 <h2> 🚀  Some of the tools I used and learned</h2> 
@@ -46,10 +44,6 @@ hobbies: ["Gaming", "Cinema", "Netflix"]
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="45" width="45" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="45" width="45" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="45" width="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" height="45" width="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="45" width="45" />
 </p>
-
-<h2> 🚀  Some stats</h2> 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Godrade&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godrade&layout=compact&theme=radical)](https://github.com/godrade)
-
